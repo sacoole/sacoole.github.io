@@ -5,24 +5,15 @@ title: "关于：About"
 Welcome to visit my blog!
 
 #### 1.Personal Info
-Name: Xuewen Pan(潘学文)  
+Name: Wang wang (王 望)  
 Gender: Male  
-City: Wuhan, China  
-Career: Software developer(Android&Linux&Web)  
+City: Peking, China  
+Career: Software developer
 
 #### 2.My Links
-Blog: <http://www.panxw.com>  
-GitHub: <https://github.com/panxw>  
-LinkedIn: <http://www.linkedin.com/in/panxw>  
+GitHub: <https://github.com/sacoole>  
 
 
 #### 3.Contract
-Email: winfirm#163.com  
-QQ: 85902258  
+Email: sacoole@163.com  
 
-### 4.Domain For Sale
-danbaili.com  
-fangxinyu.com  
-maicaiwa.com  
-babytoycar.com  
-youth168.com  
